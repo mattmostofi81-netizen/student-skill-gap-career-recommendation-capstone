@@ -144,6 +144,6 @@ The system is intended as a career decision-support tool rather than a guarantee
 ## 🎓 Academic Project
 
 **Program:** Master of Data Analytics  
-**Course:** DAMO630 – Advanced Data Analytics  
+**Course:**  Course: DAMO-699-1 – Capstone Project
 **Institution:** University of Niagara Falls Canada  
 **Year:** 2026
